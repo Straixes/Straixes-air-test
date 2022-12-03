@@ -77,6 +77,7 @@ def jouer():
         print("fin de partie")
 jouer()
 
+print("hello world")
 
     
 
